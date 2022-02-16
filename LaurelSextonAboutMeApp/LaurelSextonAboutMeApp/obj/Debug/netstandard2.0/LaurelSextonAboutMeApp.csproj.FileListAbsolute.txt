@@ -1,0 +1,12 @@
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\bin\Debug\netstandard2.0\LaurelSextonAboutMeApp.deps.json
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\bin\Debug\netstandard2.0\LaurelSextonAboutMeApp.dll
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\bin\Debug\netstandard2.0\LaurelSextonAboutMeApp.pdb
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\obj\Debug\netstandard2.0\BackgroundPage.xaml.g.cs
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\obj\Debug\netstandard2.0\LaurelSextonAboutMeApp.csproj.CoreCompileInputs.cache
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\obj\Debug\netstandard2.0\LaurelSextonAboutMeApp.AssemblyInfoInputs.cache
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\obj\Debug\netstandard2.0\LaurelSextonAboutMeApp.AssemblyInfo.cs
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\obj\Debug\netstandard2.0\LaurelSextonAboutMeApp.dll
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\obj\Debug\netstandard2.0\LaurelSextonAboutMeApp.pdb

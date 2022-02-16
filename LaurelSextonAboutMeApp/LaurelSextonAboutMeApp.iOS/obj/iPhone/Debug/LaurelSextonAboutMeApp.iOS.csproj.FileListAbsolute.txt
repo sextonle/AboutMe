@@ -1,0 +1,8 @@
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp.iOS\obj\iPhone\Debug\optimized\
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp.iOS\obj\iPhone\Debug\LaurelSextonAboutMeApp.iOS.csprojAssemblyReference.cache
+C:\Users\lasex\source\repos\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp\LaurelSextonAboutMeApp.iOS\obj\iPhone\Debug\LaurelSextonAboutMeApp.iOS.csproj.CoreCompileInputs.cache
